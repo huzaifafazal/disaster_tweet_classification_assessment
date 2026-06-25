@@ -20,7 +20,7 @@ To test the application in a clean environment, follow these steps:
 ### 1. Environment Setup & Installation
 Clone the repository, initialize your virtual environment, and install the pinned dependencies:
 ```bash
-git clone <your-repo-url> && cd disaster-classifier
+git clone https://anonymous.4open.science/r/disaster_tweet_classification_assessment-5F7F/ && cd disaster-classifier
 python3 -m venv venv && source venv/bin/activate
 pip install --upgrade pip && pip install -r requirements.txt
 
