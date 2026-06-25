@@ -1,0 +1,11 @@
+# Ignore datasets and models
+train.csv
+test.csv
+predictions.csv
+model.joblib
+
+# Ignore python virtual environments and cache
+venv/
+.venv/
+__pycache__/
+.streamlit/
